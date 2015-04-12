@@ -1,0 +1,20 @@
+# Distribution / packaging
+9	.Python
+10	env/
+11	build/
+12	develop-eggs/
+13	dist/
+14	downloads/
+15	eggs/
+16	.eggs/
+17	lib/
+18	lib64/
+19	parts/
+
+# for vim
+[._]*.s[a-w][a-z]
+2	[._]s[a-w][a-z]
+3	*.un~
+4	Session.vim
+5	.netrwhist
+6	*~
